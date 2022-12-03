@@ -1,3 +1,3 @@
 # nikolicdesign
 Portfolio website
-Made with HTML, CSS, BOOTSTRAP AND JAVASCRIPT
+Made with HTML, CSS, BOOTSTRAP and JAVASCRIPT
