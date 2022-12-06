@@ -51,8 +51,49 @@ html {
     background-image: url(/slike/pozadina.gif);
     background-size: cover;
     text-align: center;
-    padding-top: 150px;
-    padding-bottom: 150px;
+    padding-top: 200px;
+    padding-bottom: 70px;
     padding-left: 50px;
     padding-right: 50px;
   }
+  .druga{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin-left: 40px;
+    margin-right:40px;
+    text-align: center;
+  }
+  .treca{
+    overflow: hidden;
+    background-image: url(/slike/pozadina.gif);
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 40px;
+    padding-right:40px;
+    text-align: center;
+  }
+  .dugme{
+    padding: 20px;
+    width: 150px;
+    background-color: transparent;
+    font-size: large;
+    color: white;
+    transition-duration: 0.9s;
+}
+.dugme:hover{
+   background-color: rgba(245, 245, 245, 0.486);
+   color: black;
+}
+.hw{
+background-image: url(/slike/hw.png);
+background-position: center;
+background-size: cover;
+padding: 25px;
+}
+.game{
+background-image: url(/slike/gameling.png);
+background-position: center;
+background-size: cover;
+padding: 25px;
+}
