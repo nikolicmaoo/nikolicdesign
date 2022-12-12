@@ -1,4 +1,4 @@
 # Nikolic Design
-Portfolio website
+Portfolio website.
 Made with HTML, CSS, BOOTSTRAP and JAVASCRIPT.
-Soon to be live
+Soon to be live.
